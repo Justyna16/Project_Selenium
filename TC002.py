@@ -11,7 +11,7 @@ produkt_1 = "vigantol"
 produkt_2 = "ceviforte"
 
 
-class RegistrationTest(unittest.TestCase):
+class ShoppingCart(unittest.TestCase):
     def setUp(self):
         self.driver = webdriver.Chrome()
         self.driver.maximize_window()
