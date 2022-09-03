@@ -1,2 +1,2 @@
 #### Testing https://www.aptekaolmed.pl with Selenium WebDriver.
-These are test cases of new user registration (TC001.py) and shopping cart (TC002.py).
+Test cases for new user registration (TC001.py) and shopping cart (TC002.py).
